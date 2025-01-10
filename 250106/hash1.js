@@ -1,3 +1,5 @@
+/* 해시_폰켓몬 */
+
 /* 1차. 문제 풀이의 흐름만 작성가능능 */
 /* function solution(nums) {
   let answer = 0;

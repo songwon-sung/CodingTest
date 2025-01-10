@@ -1,3 +1,5 @@
+/* 연습문제_기사단원의 무기 */
+
 /* 1차 */
 /* function solution(number, limit, power) {
   let total = 0;
